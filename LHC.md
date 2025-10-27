@@ -1,0 +1,17 @@
+- Largest particle accelerator, 27 km in circumference.
+- Accelerates protons and heavy atomic nuclei.
+- 13 TeV energy scale, 1.5 billion collisions per second.
+- tracks collisions upto 40 million times per second
+- complex computer systems and algorithms and AI are used to reconstruct the signals from the detectors into collision events
+- 4 major experiments
+	- ALICE - quark-gluon plasma
+		- at $10^{12} K$ matter breaks down into quarks and gluons
+		- the state of the universe just $\mu s$ after the big bang
+		- Lead atomic nuclei are collided at high energy to study q-g plasma
+		- q-g plasma freezes out after a short time like water vapour condensing
+		- ALICE can determine the type of particle of almost all particles using various physical phenomena like Cherenkov effect, transition radiation and precise measurement of physical quantities such as time of flight and energy loss.
+		- Conversion of Lead into Gold - not direct collision, the em field influenced the lead nuclei to lose one proton as they passed each other
+	- ATLAS - 
+	- CMS
+	- LHCb
+- 

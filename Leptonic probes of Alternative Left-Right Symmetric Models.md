@@ -1,0 +1,13 @@
+- The SM based on the gauge group $SU(3)_C \otimes SU(2)_L \otimes U(1)_Y$ explains elementary particles and interactions
+- but faces several unresolved problems and conceptual challenges
+	- Chiral framework, with maximal parity violations through the weak interaction
+	- No right-handed neutrinos or extra fermionic states which don't agree with experiment -- neutrino masses and mixing (oscillations?)
+- LRSM is an extension of SM to address these issues with the gauge group $SU(3)_C \otimes SU(2)_{L} \otimes SU(2)_{R} \otimes U(1)_{B-L}$
+- LRSM relates the maximal parity violation to the smallness of neutrino masses
+- by postulating parity invariance of weak interactions via interchangable $SU(2)_{L} \otimes SU(2)_{R}$ symmetries
+- such frameworks automatically include 3 right-handed neutrinos needed for seesaw mechanism to explain the smallness of the observed neutrino masses
+- U(1) charge assignment is well defined compared to the SM, the hypercharge quantum numbers arising from $B-L$ symmetry and $SU(2)_{R}$, both having a physical origin
+- minimal model extensions
+- collider first, models later
+- LHC, FCC, future colliders
+- 
