@@ -1,0 +1,8 @@
+- [ ] QFT
+- [ ] histograms
+- [ ] Python fundamentals
+- [ ] C++ fundamentals
+- [ ] NPP - from MSc
+- [ ] QM3D - spin 
+- [ ] Variational principle, WKB and perturbation
+- [ ] ED 
