@@ -1,5 +1,5 @@
 {
-  "snapStepMinutes": 10,
+  "snapStepMinutes": 5,
   "progressIndicator": "pie",
   "showTaskNotification": true,
   "zoomLevel": 2,
@@ -17,7 +17,7 @@
   "hourFormat": "H",
   "dataviewSource": "",
   "extendDurationUntilNext": false,
-  "defaultDurationMinutes": 30,
+  "defaultDurationMinutes": 60,
   "minimalDurationMinutes": 10,
   "showTimestampInTaskBlock": false,
   "showUncheduledTasks": true,

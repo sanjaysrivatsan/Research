@@ -3,5 +3,6 @@
   "vimMode": true,
   "showLineNumber": true,
   "promptDelete": true,
-  "alwaysUpdateLinks": false
+  "alwaysUpdateLinks": false,
+  "readableLineLength": false
 }
